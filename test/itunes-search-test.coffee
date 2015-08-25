@@ -13,4 +13,4 @@ describe 'itunes-search', ->
     require('../src/itunes-search')(@robot)
 
   it 'registers a respond listener', ->
-    expect(@robot.respond).to.have.been.calledWith(/music( me)? (.*)/)
+    expect(@robot.respond).to.have.been.calledWith(/music( me)? (.+)/i)
