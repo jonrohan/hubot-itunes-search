@@ -1,28 +1,21 @@
 {
   "name": "hubot-itunes-search",
   "description": "Search iTunes for music, and return previews",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Jon Rohan <jon@jonrohan.me>",
   "license": "MIT",
-
   "keywords": "hubot, hubot-scripts, itunes, music, search",
-
   "repository": {
     "type": "git",
     "url": "git://github.com/jonrohan/hubot-itunes-search.git"
   },
-
   "bugs": {
     "url": "https://github.com/jonrohan/hubot-itunes-search/issues"
   },
-
-  "dependencies": {
-  },
-
+  "dependencies": {},
   "peerDependencies": {
     "hubot": "2.x"
   },
-
   "devDependencies": {
     "chai": "^2.1.1",
     "coffee-script": "1.6.3",
@@ -37,9 +30,7 @@
     "sinon": "^1.13.0",
     "sinon-chai": "^2.7.0"
   },
-
   "main": "index.coffee",
-
   "scripts": {
     "test": "grunt test"
   }
