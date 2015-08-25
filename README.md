@@ -23,3 +23,12 @@ Then add **hubot-itunes-search** to your `external-scripts.json`:
 ## Sample Interaction
 
 ![](https://cloud.githubusercontent.com/assets/54012/9478429/e0bb61a8-4b45-11e5-9953-251fddba5630.png)
+
+## Related
+
+* [hubot-rubygems-search](https://github.com/jonrohan/hubot-rubygems-search)
+* [hubot-slack-reactions](https://github.com/jonrohan/hubot-slack-reactions)
+
+## License
+
+MIT &copy; [Jon Rohan](http://jonrohan.codes)
