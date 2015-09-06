@@ -5,7 +5,7 @@
 #   hubot music single ladies - will search for the iTunes link to Single Ladies
 #
 # Author:
-#   Jon Rohan <jon@jonrohan.me>
+#   Jon Rohan <yes@jonrohan.codes>
 
 module.exports = (robot) ->
 
