@@ -2,7 +2,7 @@
   "name": "hubot-itunes-search",
   "description": "Search iTunes for music, and return previews",
   "version": "0.1.0",
-  "author": "Jon Rohan <jon@jonrohan.me>",
+  "author": "Jon Rohan <yes@jonrohan.codes>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts, itunes, music, search",
   "repository": {
