@@ -1,5 +1,7 @@
 # hubot-itunes-search
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jonrohan/hubot-itunes-search.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/jonrohan/hubot-itunes-search.svg)](https://travis-ci.org/jonrohan/hubot-itunes-search)
 
 Search iTunes for music, and return previews. Suggestions welcome read over the [contributing](/CONTRIBUTING.md) guidelines.
