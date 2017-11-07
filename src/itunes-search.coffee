@@ -11,11 +11,13 @@ module.exports = (robot) ->
 
   robot.respond /music( me)? (.+)/i, (msg) ->
     query = msg.match[2]
+    country = process.env.HUBOT_ITUNES_SEARCH_COUNTRY || 'US'
     robot.http("http://itunes.apple.com/search")
       .query({
         entity: "song",
         limit: "1",
-        term: query
+        term: query,
+        country: country
       })
       .get() (err, res, body) ->
 
